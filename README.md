@@ -39,3 +39,6 @@ To review and read a history of everything that happens to a repository. General
 ```
 git log
 ```
+<img src="img/git1.jpg" align="center" width="800">
+
+<img src="img/git2.jpg" align="center" width="800">
